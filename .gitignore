@@ -1,4 +1,4 @@
-_site/
-Gemfile.lock
+.idea/
+.vscode/
 .DS_Store
-/.idea
+_site/
